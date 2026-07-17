@@ -74,7 +74,8 @@ Artificial Intelligence • Full-Stack Development • Education Technology • 
 
 <a href="https://www.linkedin.com/in/ankush-dutta-student/">LinkedIn</a> •
 <a href="https://chatistry.vercel.app">CHATistry</a> •
-Portfolio (Coming Soon)
+<a href="https://bookquestgame.vercel.app">BookQuest</a> •
+<a href="https://drive.google.com/file/d/1bwVQFpdngUUSpTRl5e-3hqFfjKXWjkRp/view?usp=sharing">Portfolio CV</a> •
 
 </p>
 
