@@ -1,189 +1,90 @@
 # Hi 👋 I'm Ankush Dutta
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Independent+Researcher;Building+AI-powered+Products;Education+Technology+Enthusiast;Privacy-first+Software+Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F766E,50:14B8A6,100:3B82F6&text=Ankush%20Dutta&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Independent%20Researcher%20•%20AI%20Enthusiast&descAlignY=58" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=friendlyfoe241-cyber&label=Profile%20Views&color=14b8a6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=Building+AI-powered+Products;Full-Stack+Developer;Privacy-first+Software+Builder;Independent+Researcher;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=friendlyfoe241-cyber&label=Profile%20Views&color=14B8A6&style=flat" />
   <img src="https://img.shields.io/github/followers/friendlyfoe241-cyber?style=social" />
+  <img src="https://img.shields.io/github/stars/friendlyfoe241-cyber?affiliations=OWNER&style=social" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a full-stack developer and independent researcher based in Dubai, passionate about building software that solves real-world problems through thoughtful design, scalable architecture, and AI.
+I'm a **full-stack developer**, **independent researcher**, and **student builder** based in Dubai, passionate about creating software that solves real-world problems.
 
-My work spans educational technology, privacy-focused communication platforms, research infrastructure, and modern web applications.
+My work spans **AI**, **education technology**, **privacy-first communication**, **research platforms**, and **modern web applications**. I enjoy transforming ambitious ideas into polished, scalable, production-ready products.
 
-I enjoy turning ambitious ideas into polished, production-ready products.
-
----
-
-# 🛠 Featured Projects
-
-## 📚 BookQuest
-
-A gamified reading platform designed to make reading engaging for teenagers.
-
-### Features
-
-- AI-generated quizzes
-- Personalized recommendations
-- XP & Leveling
-- Achievements
-- Reading streaks
-- Coin economy
-- Leaderboards
-- Public domain library
-
-**Stack**
-
-Next.js • TypeScript • Tailwind CSS • Supabase • Clerk • PostgreSQL
+**Currently exploring:** AI Engineering • Large Language Models • RAG Systems • System Design • Cloud Infrastructure
 
 ---
 
-## 💬 CHATistry
+## 🚀 Current Focus
 
-A modern privacy-first messaging platform built for zero-friction communication.
-
-🌐 https://chatistry.vercel.app
-
-### Highlights
-
-- No email required
-- No phone number required
-- No Google account required
-- Instant real-time messaging
-- Live typing indicators
-- Online presence tracking
-- Voice messages
-- Emoji reactions
-- Threaded replies
-- Pinned conversations
-- Client-side media compression
-
-### Tech
-
-React • Supabase • Tailwind CSS • Realtime Database • Row-Level Security • Vercel
-
-**Focus**
-
-Designed for privacy-conscious users and communities that need secure communication without traditional account barriers.
+- 📚 Building **BookQuest** — a gamified AI-powered reading platform
+- 💬 Growing **CHATistry** — a privacy-first real-time messaging platform
+- 🧠 Developing research infrastructure for **Synthica**
+- 🏢 Creating modern web experiences for **Aresha Real Estate**
 
 ---
 
-## 🧠 Synthica
+## 🌟 Featured Projects
 
-Independent Researcher & Full Stack Developer
-
-Helping build the research platform by working on
-
-- Editorial dashboards
-- Research workflows
-- Backend systems
-- Authentication
-- Responsive frontend
-- Database architecture
-- UI/UX improvements
+| Project | Description | Stack |
+|:---|:---|:---|
+| **📚 BookQuest** | AI-powered reading platform featuring quizzes, XP, achievements, leaderboards, reading streaks, and personalized recommendations. | Next.js · TypeScript · Supabase · Tailwind CSS · PostgreSQL |
+| **💬 CHATistry** | Privacy-first messaging platform with **no email or phone number required**. Features real-time messaging, typing indicators, presence tracking, voice notes, emoji reactions, threaded replies, pinned messages, and client-side media compression. | React · Supabase Realtime · Tailwind CSS · Vercel |
+| **🧠 Synthica** | Research platform where I contribute to editorial dashboards, backend architecture, authentication, database systems, and responsive UI development. | Next.js · PostgreSQL · Tailwind CSS |
+| **🏢 Aresha Real Estate** | Designed and developed responsive web experiences while improving performance, usability, and frontend architecture. | React · Tailwind CSS |
 
 ---
 
-## 🏢 Aresha Real Estate
-
-Frontend Developer
-
-Designed and developed responsive pages while improving user experience and performance for the company's digital presence.
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-- TypeScript
-- JavaScript
-- Python
-- SQL
-- HTML
-- CSS
-
-### Frontend
-
-- React
-- Next.js
-- Tailwind CSS
-
-### Backend
-
-- Supabase
-- PostgreSQL
-- Prisma
-- Drizzle ORM
-
-### Cloud
-
-- Vercel
-- GitHub
-
-### Tools
-
-- Git
-- Figma
-- VS Code
-- Clerk
-- Postman
-
----
-
-# 🌱 Currently Exploring
-
-- AI Engineering
-- Large Language Models
-- RAG Systems
-- System Design
-- Cloud Infrastructure
-- Scalable Backend Architecture
-
----
-
-# 📊 GitHub Statistics
+## 💻 Tech Stack
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,tailwind,supabase,postgres,git,github,vercel,vscode,figma&perline=14" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=friendlyfoe241-cyber&show_icons=true&theme=tokyonight&hide_border=true"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friendlyfoe241-cyber&layout=compact&theme=tokyonight&hide_border=true"/>
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=friendlyfoe241-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friendlyfoe241-cyber&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=friendlyfoe241-cyber&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=friendlyfoe241-cyber&theme=tokyonight&hide_border=true"/>
+---
+
+## 🎯 Interests
+
+Artificial Intelligence • Full-Stack Development • Education Technology • Privacy & Security • Research Platforms • Human-Computer Interaction • Open Source
+
+---
+
+## 📫 Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ankush-dutta-student/">LinkedIn</a> •
+<a href="https://chatistry.vercel.app">CHATistry</a> •
+Portfolio (Coming Soon)
 
 </p>
 
 ---
 
-# 🎯 Areas of Interest
-
-- Artificial Intelligence
-- Full Stack Development
-- Human Computer Interaction
-- Privacy & Security
-- Education Technology
-- Research Platforms
-- Open Source
-
----
-
-# 📫 Let's Connect
-
-💼 LinkedIn: *https://www.linkedin.com/in/ankush-dutta-student/*
-
-🌐 Portfolio: *(Coming Soon)*
-
----
-
-> *Building software that is accessible, secure, and impactful.*
+<p align="center">
+<i>"Building software that is accessible, secure, and impactful."</i>
+</p>
