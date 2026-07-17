@@ -57,7 +57,7 @@ My work spans **AI**, **education technology**, **privacy-first communication**,
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=friendlyfoe241-cyber&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=friendlyfoe241-cyber&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
