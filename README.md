@@ -57,8 +57,7 @@ My work spans **AI**, **education technology**, **privacy-first communication**,
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=friendlyfoe241-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friendlyfoe241-cyber&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=friendlyfoe241-cyber&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
